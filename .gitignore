@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Dataset (57 MB - download from UCI, see README)
+PhiUSIIL_Phishing_URL_Dataset.csv
+*.zip
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
